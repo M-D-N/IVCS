@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "AkzidenzBold";
+    src: url(../Fonts/font/AkzidenzGroteskPro-BoldEx.ttf);
+}
+@font-face {
+    font-family: "AkzidenzLight";
+    src: url(../Fonts/font/AkzidenzGroteskPro-LightEx.ttf);
+}
+@font-face {
+    font-family: "AkzidenzRegular";
+    src: url(../Fonts/font/AkzidenzGroteskPro-Regular.ttf);
+}
+@font-face {
+    font-family: "RalewayRegular";
+    src: url(../Fonts/Raleway/Raleway-Regular.ttf);
+}
+@font-face {
+    font-family: "RalewayBold";
+    src: url(../Fonts/Raleway/Raleway-Bold.ttf);
+}
